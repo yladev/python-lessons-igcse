@@ -1,0 +1,13 @@
+Why ae vriables needed?
+    They are needed for containing and referencing data.
+
+Provide examples of the four data types.
+-numeric
+-boolean
+-Dictionary
+-integer
+-float/real
+
+How are selection and iteration implemented in the high-level language you are studying?
+IF,ELSE,OR,AND
+  
